@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="1000.0" maxWidth="1000.0" minHeight="500.0" minWidth="900.0" prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="business.MainViewController2">
+    <children>
+      <VBox prefHeight="200.0" prefWidth="100.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="500.0" AnchorPane.topAnchor="0.0">
+         <children>
+                <TableView fx:id="tableViewStudent" prefHeight="362.0" prefWidth="299.0">
+                    <columns>
+                        <TableColumn fx:id="tableColumID" prefWidth="19.19998264312744" text="ID" />
+                        <TableColumn fx:id="tableColumNume" prefWidth="113.60000228881836" text="Nume" />
+                        <TableColumn fx:id="tableColumGrupa" prefWidth="45.5999755859375" text="Grupa" />
+                        <TableColumn fx:id="tableColumMail" prefWidth="112.80000305175781" text="Mail" />
+                    </columns>
+                </TableView>
+                <TableView fx:id="tableViewTema" prefHeight="400.0" prefWidth="500.0">
+                    <columns>
+                        <TableColumn fx:id="tableColumID2" prefWidth="19.20001220703125" text="ID" />
+                        <TableColumn fx:id="tableColumDesc" prefWidth="97.59997177124023" text="Desc" />
+                        <TableColumn fx:id="tableColumStartWeek" prefWidth="42.4000244140625" text="start" />
+                        <TableColumn fx:id="tableColumDeadlineWeek" prefWidth="56.0" text="deadline" />
+                    </columns>
+                </TableView>
+         </children>
+      </VBox>
+        <VBox layoutX="567.0" layoutY="26.0" prefHeight="174.0" prefWidth="246.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="500.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <children>
+                <Separator prefHeight="34.0" prefWidth="246.0" />
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                      <RadioButton fx:id="buttonNota" mnemonicParsing="false" text="Nota">
+                     <toggleGroup>
+                              <ToggleGroup fx:id="aleg" />
+                     </toggleGroup>
+                     <HBox.margin>
+                        <Insets left="10.0" top="30.0" />
+                     </HBox.margin>
+                  </RadioButton>
+                      <RadioButton fx:id="buttonStudent" alignment="TOP_CENTER" mnemonicParsing="false" text="Student" toggleGroup="$aleg">
+                     <HBox.margin>
+                        <Insets left="20.0" top="30.0" />
+                     </HBox.margin>
+                      </RadioButton>
+                      <ComboBox fx:id="comboBoxTema" prefHeight="26.0" prefWidth="245.0" promptText="Tema">
+                     <HBox.margin>
+                        <Insets left="10.0" top="25.0" />
+                     </HBox.margin>
+                  </ComboBox>
+               </children>
+            </HBox>
+                <Separator prefHeight="34.0" prefWidth="246.0" />
+                <TextField fx:id="textField1" prefHeight="26.0" prefWidth="211.0" />
+                <Separator prefHeight="20.0" prefWidth="190.0" />
+              <TableView fx:id="tableViewNote" prefHeight="461.0" prefWidth="500.0">
+                  <columns>
+                      <TableColumn fx:id="tableColumStudent" prefWidth="104.00006103515625" text="Student" />
+                      <TableColumn fx:id="tableColumTema" prefWidth="89.60009765625" text="Tema" />
+                      <TableColumn fx:id="tableColumNota" prefWidth="48.7999267578125" text="Nota" />
+                  </columns>
+              </TableView>
+            <Separator prefWidth="200.0" />
+            <Button fx:id="buttonRaport" mnemonicParsing="false" onAction="#handleRaport" text="Rapoarte">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="222.0" top="5.0" />
+               </VBox.margin>
+            </Button>
+                <HBox prefHeight="63.0" prefWidth="40.0">
+                    <children>
+                        <Button fx:id="buttonAdd" mnemonicParsing="false" onAction="#handeAdd" prefHeight="26.0" prefWidth="60.0" text="Add" />
+                        <Separator orientation="VERTICAL" prefHeight="63.0" prefWidth="34.0" />
+                        <Button fx:id="buttonUpdate" mnemonicParsing="false" onAction="#handeUpdate" prefHeight="26.0" prefWidth="60.0" text="Update" />
+                        <Separator orientation="VERTICAL" prefHeight="63.0" prefWidth="34.0" />
+                        <Button fx:id="buttonDelete" mnemonicParsing="false" onAction="#handeDelete" prefHeight="26.0" prefWidth="60.0" text="Delete" />
+                  <Separator orientation="VERTICAL" prefHeight="200.0" />
+                    </children>
+               <VBox.margin>
+                  <Insets left="130.0" />
+               </VBox.margin>
+                </HBox>
+            </children>
+        </VBox>
+    </children>
+</AnchorPane>

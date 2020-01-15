@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+    <student>
+        <id>1</id>
+        <nume>George Mihnea</nume>
+        <grupa>224</grupa>
+        <email>josh@yahoo.ro</email>
+        <cadru_didactic>Serban Camelia</cadru_didactic>
+    </student>
+    <student>
+        <id>2</id>
+        <nume>Mirela Buna</nume>
+        <grupa>222</grupa>
+        <email>mb@yahoo.ro</email>
+        <cadru_didactic>Serban</cadru_didactic>
+    </student>
+    <student>
+        <id>3</id>
+        <nume>Radu Viorel</nume>
+        <grupa>226</grupa>
+        <email>radu@gmail.com</email>
+        <cadru_didactic>Ilie Nastase</cadru_didactic>
+    </student>
+    <student>
+        <id>4</id>
+        <nume>Mara Apostol</nume>
+        <grupa>221</grupa>
+        <email>maraapostol@gmail.com</email>
+        <cadru_didactic>Vadim Tudor</cadru_didactic>
+    </student>
+    <student>
+        <id>5</id>
+        <nume>Viorica Dancila</nume>
+        <grupa>266</grupa>
+        <email>danci@gmail.com</email>
+        <cadru_didactic>Vadim Tudor</cadru_didactic>
+    </student>
+</class>

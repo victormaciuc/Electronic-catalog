@@ -1,0 +1,1080 @@
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:-1
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:9
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:5
+Nota:1.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:4
+Nota:1.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:1.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:5
+Nota:1.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:1.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:5
+Nota:1.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:1
+Nota:9.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:2
+Nota:10.0
+Predata in saptamana:15
+Deadline:8
+Feedback:
+
+ID-ul temei:4
+Nota:9.0
+Predata in saptamana:15
+Deadline:10
+Feedback:TEMA A FOST PREDATA LA TIMP
+
+ID-ul temei:5
+Nota:9.0
+Predata in saptamana:15
+Deadline:11
+Feedback:TEMA A FOST PREDATA LA TIMP
+

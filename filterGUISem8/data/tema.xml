@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+    <tema>
+        <id>1</id>
+        <desc>ASC</desc>
+        <startWeek>5</startWeek>
+        <deadlineWeek>6</deadlineWeek>
+    </tema>
+    <tema>
+        <id>2</id>
+        <desc>OOP</desc>
+        <startWeek>6</startWeek>
+        <deadlineWeek>8</deadlineWeek>
+    </tema>
+    <tema>
+        <id>4</id>
+        <desc>MAP</desc>
+        <startWeek>9</startWeek>
+        <deadlineWeek>10</deadlineWeek>
+    </tema>
+    <tema>
+        <id>5</id>
+        <desc>Probabilitati</desc>
+        <startWeek>8</startWeek>
+        <deadlineWeek>11</deadlineWeek>
+    </tema>
+</class>

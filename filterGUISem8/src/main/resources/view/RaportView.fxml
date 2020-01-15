@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="business.RaportController">
+   <children>
+      <SplitPane dividerPositions="0.6404682274247492" prefHeight="400.0" prefWidth="600.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="398.0" prefWidth="384.0">
+               <children>
+                  <TableView fx:id="studentTableView" prefHeight="400.0" prefWidth="397.0">
+                    <columns>
+                      <TableColumn fx:id="tableColumStudent" prefWidth="112.0" text="Student" />
+                        <TableColumn fx:id="testari2" prefWidth="73.0" text="Peste 4" />
+                        <TableColumn fx:id="coloana3" prefWidth="84.0" text="Au trecut" />
+                        <TableColumn fx:id="coloana4" prefWidth="109.0" text="Media" />
+                    </columns>
+                  </TableView>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="398.0" prefWidth="217.0">
+               <children>
+                  <TextField fx:id="testare" layoutX="23.0" layoutY="347.0" />
+                  <Text layoutX="23.0" layoutY="330.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cea mai grea tema" wrappingWidth="187.421875" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

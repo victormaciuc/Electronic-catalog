@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+    <nota>
+        <idStudent>1</idStudent>
+        <idTema>1</idTema>
+        <an>2019</an>
+        <luna>10</luna>
+        <zi>31</zi>
+        <value>9.0</value>
+        <feedback>TEMA A FOST PREDATA LA TIMP</feedback>
+    </nota>
+    <nota>
+        <idStudent>1</idStudent>
+        <idTema>4</idTema>
+        <an>2019</an>
+        <luna>12</luna>
+        <zi>12</zi>
+        <value>9.0</value>
+        <feedback>TEMA A FOST PREDATA LA TIMP</feedback>
+    </nota>
+    <nota>
+        <idStudent>1</idStudent>
+        <idTema>5</idTema>
+        <an>2019</an>
+        <luna>12</luna>
+        <zi>16</zi>
+        <value>9.0</value>
+        <feedback>TEMA A FOST PREDATA LA TIMP</feedback>
+    </nota>
+    <nota>
+        <idStudent>4</idStudent>
+        <idTema>4</idTema>
+        <an>2019</an>
+        <luna>12</luna>
+        <zi>13</zi>
+        <value>10.0</value>
+        <feedback>NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:9.0</feedback>
+    </nota>
+    <nota>
+        <idStudent>1</idStudent>
+        <idTema>2</idTema>
+        <an>2019</an>
+        <luna>7</luna>
+        <zi>28</zi>
+        <value>10.0</value>
+        <feedback/>
+    </nota>
+    <nota>
+        <idStudent>5</idStudent>
+        <idTema>1</idTema>
+        <an>2019</an>
+        <luna>12</luna>
+        <zi>13</zi>
+        <value>1.0</value>
+        <feedback>TEMA A FOST PREDATA PREA TARZIU</feedback>
+    </nota>
+</class>

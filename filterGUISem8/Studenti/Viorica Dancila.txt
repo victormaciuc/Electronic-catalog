@@ -1,0 +1,467 @@
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:11
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:7
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:11
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:7
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:3
+Nota:8.0
+Predata in saptamana:15
+Deadline:9
+Feedback:NOTA A FOST DIMINUATA DIN CAUZA INTARZIERILOR
+NOTA MAXIMA:8.0
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
+ID-ul temei:1
+Nota:1.0
+Predata in saptamana:15
+Deadline:6
+Feedback:TEMA A FOST PREDATA PREA TARZIU
+
